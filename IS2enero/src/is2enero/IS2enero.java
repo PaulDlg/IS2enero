@@ -18,6 +18,10 @@ public class IS2enero {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("holamundo");
+        
     }
     
+    public static void hola(){
+    }
+
 }
